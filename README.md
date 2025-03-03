@@ -29,8 +29,8 @@ Neste desafio, foi necessário calcular:
 - O menor valor de faturamento ocorrido em um dia do mês.
 - O maior valor de faturamento ocorrido em um dia do mês.
 - O número de dias no mês em que o valor de faturamento diário foi superior à média mensal, ignorando dias sem faturamento.
-- [Faturamento.cs](https://github.com/AlissonLb/TargetSistemaTeste/blob/main/Faturamento.cs)
-- 
+ [Faturamento.cs](https://github.com/AlissonLb/TargetSistemaTeste/blob/main/Faturamento.cs)
+  
 
 ## Questão 4: Percentual de Representação por Estado
 
@@ -40,7 +40,7 @@ A tarefa foi calcular o percentual de faturamento de cada estado em relação ao
 ## Questão 5: Inversão de String
 
 Por fim, foi solicitado um programa que inverta os caracteres de uma string informada pelo usuário, sem utilizar funções prontas para reversão.
-https://github.com/AlissonLb/TargetSistemaTeste/blob/main/Stringinvertida.cs
+[Stringinvertida.cs](https://github.com/AlissonLb/TargetSistemaTeste/blob/main/Stringinvertida.cs)
 
 
 ## Conclusão
