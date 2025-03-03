@@ -3,7 +3,7 @@
 
 # Desafios Target Sistemas
 
-Este repositório contém as soluções para os desafios propostos no recrutamento da Target Sistemas. As soluções foram implementadas em JavaScript.
+Este repositório contém as soluções para os desafios propostos no recrutamento da Target Sistemas. As soluções foram implementadas em C#.
 
 ## Índice
 
